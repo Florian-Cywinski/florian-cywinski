@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
-<h3 align="center">A passionate Junior Full Stack Developer based in Berlin</h3>
+<h3 align="center">A passionate Junior Full Stack Web Developer based in Berlin</h3>
 
 - 🔭 I’m currently working on [NBA Digital Album](http://www.nbadigitalalbum.click/)
 
-- 🌱 I have just graduated an intense 10-week Ruby on Rails Fullstack Web Development Coding Bootcamp at **Le Wagon**
+- 🌱 I have just graduated a 10-week Ruby on Rails Fullstack Web Development Coding Bootcamp at **Le Wagon**
 
 - 👨‍💻 All of my projects are available at: [https://troopl.com/florian-cywinski](https://troopl.com/florian-cywinski)
 
