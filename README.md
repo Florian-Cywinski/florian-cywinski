@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
 <h3 align="center">A passionate Junior Full Stack Web Developer based in Berlin</h3>
 
-- 🌱 I have graduated a 10-week Ruby on Rails Fullstack Web Development Coding Bootcamp at **Le Wagon**
-
-- 👨‍💻 All of my projects are available at: [https://troopl.com/florian-cywinski](https://troopl.com/florian-cywinski)
+- 🌱 I have graduated a 10-week Ruby on Rails **Fullstack Web Development** Coding Bootcamp at Le Wagon
 
 - 💬 I’m currently learning **more of everything**
 
