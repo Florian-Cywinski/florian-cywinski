@@ -3,7 +3,7 @@
 
 - 🌱 I have graduated a 9-week Ruby on Rails **Fullstack Web Development** Coding Bootcamp at Le Wagon
 
-- 💬 I’m currently learning more of **Vanilla JavaScript** and **Bootstrap**
+- 💬 I’m currently learning more of **Bootstrap**
 
 - 📫 How to reach me: **florian.cywinski@protonmail.com**
 
