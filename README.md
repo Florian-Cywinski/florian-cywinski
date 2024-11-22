@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
-<h3 align="center">A passionate Junior Frontend Developer based in Berlin</h3>
+<h3 align="center">A passionate Junior Data Scientist and Full Stack Web Developer based in Berlin</h3>
 
-- 💬 I’m currently learning more of **PHP** and **WordPress**
+- 💬 I’m currently learning more of **Deep Learning**
 
 - 📫 How to reach me: **florian.cywinski@protonmail.com**
 
